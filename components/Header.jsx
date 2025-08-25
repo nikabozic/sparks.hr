@@ -7,7 +7,7 @@ export default function Header() {
     <header className="sticky top-0 z-40 backdrop-blur border-b border-white/10 bg-black/20">
       <Container className="flex items-center justify-between h-16">
         <Link href="/" className="flex items-center gap-3">
-          <Image src="/sparks-logo.svg" width={36} height={36} alt="SPARKS" />
+          <Image src="/sparks-logo.png" width={36} height={36} alt="SPARKS" />
           <span className="font-display text-xl tracking-wide">SPARKS</span>
         </Link>
         <nav className="hidden md:flex items-center gap-8 text-sm">

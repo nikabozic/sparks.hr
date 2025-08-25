@@ -45,7 +45,7 @@ export default function Hero() {
           <div className="relative">
             <div className="gradient-border glass p-6 md:p-8 rounded-3xl">
               <div className="flex items-center gap-4">
-                <Image src="/puppy.svg" alt="Sparks puppy" width={80} height={80} />
+                <Image src="/puppy.png" alt="Sparks puppy" width={80} height={80} />
                 <div>
                   <h3 className="font-display text-2xl">Teacher Nina</h3>
                   <p className="text-white/75">

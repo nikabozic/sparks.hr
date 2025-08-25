@@ -19,7 +19,7 @@ export default function Instructors() {
         </div>
         <div className="order-1 md:order-2">
           <div className="gradient-border glass rounded-3xl p-6 flex items-center gap-6">
-            <Image src="/puppy.svg" alt="Maskota" width={96} height={96} />
+            <Image src="/puppy.png" alt="Maskota" width={96} height={96} />
             <div>
               <p className="text-white/70">“Djeca kroz igru uče najbrže.”</p>
               <p className="mt-2 font-semibold">– Nina</p>

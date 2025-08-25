@@ -8,7 +8,7 @@ export default function Footer() {
       <Container className="py-10 grid md:grid-cols-3 gap-8 text-sm">
         <div>
           <div className="flex items-center gap-3">
-            <Image src="/sparks-logo.svg" height={32} width={32} alt="SPARKS" />
+            <Image src="/sparks-logo.png" height={32} width={32} alt="SPARKS" />
             <span className="font-display text-xl">SPARKS</span>
           </div>
           <p className="mt-3 text-white/70">
